@@ -29,4 +29,4 @@ Data Visualization: Leverages Matplotlib and Seaborn to explore data patterns an
    drive.mount('/content/drive')
 
 
-# Note : ## Due to time constraints, a detailed project report could not be completed. However, the implementation and code are provided for review.
+# Note : ## Due to time constraints, a detailed project report could not be completed.
